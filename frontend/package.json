@@ -1,0 +1,41 @@
+{
+  "name": "breeze-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@emotion/cache": "^11.7.1",
+    "@emotion/react": "^11.8.2",
+    "@emotion/server": "^11.4.0",
+    "@emotion/styled": "^11.8.1",
+    "@mui/icons-material": "^5.5.1",
+    "@mui/material": "^5.5.1",
+    "axios": "^0.21.1",
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.5.23",
+    "jss-rtl": "^0.3.0",
+    "next": "^12.0.4",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-hook-form": "^7.28.0",
+    "stylis": "^4.0.13",
+    "stylis-plugin-rtl": "^2.1.1",
+    "swr": "^0.3.11"
+  },
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.12.1",
+    "@next/eslint-plugin-next": "^10.0.4",
+    "autoprefixer": "^10.4.2",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.17.0",
+    "eslint-config-prettier": "^7.1.0",
+    "eslint-plugin-next": "^0.0.0",
+    "eslint-plugin-prettier": "^3.3.0",
+    "eslint-plugin-react": "^7.22.0",
+    "prettier": "2.2.1"
+  }
+}
